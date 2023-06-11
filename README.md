@@ -39,9 +39,9 @@ https://unityroom.com/unity1weeks/55/top
 
 # VRChat用アバター
 ![20220430010856_1](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/a91ab770-cbcb-4c39-8ed3-a522a55f19d9)
-メタバースの1つであるVRChat用に今川焼き型のアバターを製作
+メタバースの1つであるVRChat用に今川焼き型のアバターを制作
 
-モデルをBlender、実装をUnityにて製作
+モデルをBlender、実装をUnityにて制作
 
 いくらメタバースともいえども他人とのコミュニケーションが必要であるため、話のきっかけとなるようなアバターをめざして制作。
 
@@ -53,6 +53,7 @@ B「いえ、大判焼きです」
 
 A&B「えっ」
 
+完
 
 # Trophy
 <p align="left"> 
