@@ -1,4 +1,5 @@
 # これまでに作ったもの
+# ゲーム
 ## アシバ
 ![FchdptgaUAA1l_0](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/9afd7be7-41c9-455d-8e80-bb27a1d99ff4)
 
@@ -35,6 +36,13 @@ https://unityroom.com/games/nooon
 このイベントでの結果：楽しさ 37/401位, 斬新さ29/401位
 
 https://unityroom.com/unity1weeks/55/top
+
+# VRChat用アバター
+![20220430010856_1](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/a91ab770-cbcb-4c39-8ed3-a522a55f19d9)
+メタバースの1つであるVRChat用のアバター
+
+モデルをBlender、実装をUnityにて製作
+
 
 # Trophy
 <p align="left"> 
