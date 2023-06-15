@@ -63,6 +63,8 @@ https://unityroom.com/games/nooon
 https://unityroom.com/unity1weeks/55/top
 
 # VRChat用アバター
+## 今川焼き型アバター
+![20220729221336_1](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/d8bd5efc-4c58-4d20-8dab-ecdbce99236d)
 ![20220430010856_1](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/a91ab770-cbcb-4c39-8ed3-a522a55f19d9)
 メタバースの1つであるVRChat用の今川焼き型のアバター
 
