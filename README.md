@@ -3,7 +3,7 @@
 ## アシバ
 ![FchdptgaUAA1l_0](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/9afd7be7-41c9-455d-8e80-bb27a1d99ff4)
 
-https://unityroom.com/games/asiba
+ゲームはこちら https://unityroom.com/games/asiba
 
 ### 背景
 前作、[ヌーン](#ヌーン)ではPCで多くの人に遊んでもらえたが、高評価をしてくれるPCを持っていない身近な人に遊んでもらうのは難しかった。
@@ -27,13 +27,13 @@ https://unityroom.com/games/asiba
 
 このイベントでの結果: 27/338位, 楽しさ14/338位, 斬新さ 27/338位
 
-https://unityroom.com/unity1weeks/56/top
+ランキングのリンク https://unityroom.com/unity1weeks/56/top
 
 
 ## ヌーン！！
 ![スクリーンショット 2023-06-09 4 24 34](https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/4b7e706b-0fca-45bd-9440-5f0a010c95a5)
 
-https://unityroom.com/games/nooon
+ゲームはこちら https://unityroom.com/games/nooon
 
 ### 背景
 当時、私が所属していたサークルではゲーム制作が下火であり、制作していても各個人がバラバラに制作していた。
@@ -60,7 +60,7 @@ https://unityroom.com/games/nooon
 
 このイベントでの結果：楽しさ 37/401位, 斬新さ29/401位
 
-https://unityroom.com/unity1weeks/55/top
+ランキングのリンク https://unityroom.com/unity1weeks/55/top
 
 # VRChat用アバター
 ## 今川焼き型アバター
