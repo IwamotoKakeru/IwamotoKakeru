@@ -77,18 +77,19 @@ Unity, Plastic SCM
 ### 使用技術
 3Dモデル制作にBlender、実装にUnityを使用
 
+
+
 <details>
-  <summary>想定される会話）</summary>
+  <summary>想定される会話</summary>
   
-  A「そのアバターって今川焼きですか？」
-  
-  B「いえ、大判焼きです」
-  
-  A「えっ」
-  
-  B「えっ」
-  
-  完
+  ```mermaid
+    flowchart TB
+      A[Q.そのアバターって今川焼きですか?]
+      A --> C{考え中}
+      C --> D[今川焼きです!]
+      C --> E[ベイクドモチョモチョです]
+      C --> F[大判焼きです]
+  ```
   
 </details>
 
