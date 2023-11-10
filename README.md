@@ -100,7 +100,9 @@ https://github.com/IwamotoKakeru/IwamotoKakeru/assets/34148721/c7bbb4ca-a0a7-4e9
 ### 使用技術
 Unity 2019、AR Foundation
 ### 工夫した点
-羊の3Dモデルに動的に毛を配置する必要があったため、モデルのメッシュを取得し、頂点からポリゴンを管理するクラスを作成してポリゴン上の座標を取得する仕組みを作った。
+羊の3Dモデルに動的に毛を配置する必要があったため、モデルのメッシュを取得し、頂点からポリゴンを管理するクラスを作成してポリゴン上のランダムな座標を取得する仕組みを作った。
+
+### レポジトリ https://github.com/IwamotoKakeru/clipper
 
 # Trophy
 <p align="left"> 
