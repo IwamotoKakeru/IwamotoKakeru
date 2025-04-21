@@ -6,12 +6,15 @@
 - TypeScript
 - JavaScript
 
-## ゲームエンジン
+## エンジン
 - Unity
 
 ## ライブラリ
 - DxLib
 - React
+
+## フレームワーク
+- React Native
 
 ## その他
 - Blender
