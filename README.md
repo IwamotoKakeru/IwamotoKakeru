@@ -1,10 +1,14 @@
 # プロフィール
+モバイルアプリエンジニア
+
+開発からテストまで幅広くやってる
+
 
 ## 言語
 - C言語
 - C#
 - TypeScript
-- JavaScript
+- Python
 
 ## エンジン
 - Unity
@@ -15,6 +19,7 @@
 
 ## フレームワーク
 - React Native
+- Appium
 
 ## その他
 - Blender
